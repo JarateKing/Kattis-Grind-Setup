@@ -1,6 +1,6 @@
-# Kattis Grind
+# Kattis Grind Setup
 
-A repo of solved Kattis problems.
+This is a setup used for solving problems on [Kattis](https://open.kattis.com/).
 
 ## Usage
 
