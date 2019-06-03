@@ -9,3 +9,7 @@ To create a new problem, run `new-problem.bat` and type the problem id on open K
 To run compile and run a problem, run `run.bat` inside the problem folder.
 
 To open a link to the problem online, run `kattis.bat` inside the problem folder.
+
+## Requirements
+
+* [GCC](https://gcc.gnu.org/) / [MinGW](http://mingw.org/) 
