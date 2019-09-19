@@ -1,6 +1,6 @@
-# Kattis Grind Setup
+# Kattis Grind
 
-This is a setup used for solving problems on [Kattis](https://open.kattis.com/).
+A repo of solved Kattis problems. Uses [Kattis-Grind-Setup](https://github.com/JarateKing/Kattis-Grind-Setup).
 
 ## Usage
 
@@ -15,3 +15,11 @@ To open a link to the problem online, run `kattis.bat` inside the problem folder
 ## Requirements
 
 * [GCC](https://gcc.gnu.org/) / [MinGW](http://mingw.org/) 
+
+## Resources
+
+* https://cpbook.net/
+* https://cp-algorithms.com/
+* https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/
+* https://www.codechef.com/wiki/contest-editorial
+
