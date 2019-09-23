@@ -18,6 +18,13 @@ To open a link to the problem online, run `kattis.bat` inside the problem folder
 
 ## Resources
 
+Development:
+* https://www.onlinegdb.com/online_c++_compiler
+* http://quick-bench.com
+* https://godbolt.org/
+
+Reference:
+* https://github.com/JarateKing/Competitive-Programming-Snippets
 * https://cpbook.net/
 * https://cp-algorithms.com/
 * https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/
